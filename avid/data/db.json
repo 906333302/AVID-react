@@ -1,0 +1,170 @@
+{
+  "cloth": [
+    {
+      "type": "MENS",
+      "size": [
+        "S",
+        "M",
+        "L"
+      ],
+      "price": "139.00",
+      "style": "OUTERWEAR",
+      "color": "BLUE",
+      "title": "DENIM WORK JAVKET",
+      "titleMandarin": "牛仔外套",
+      "id": 1
+    },
+    {
+      "type": "MENS",
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price": "129.00",
+      "style": "TEES",
+      "color": "ORANGE",
+      "title": "MOJAVE TEE",
+      "titleMandarin": "莫哈韦衬衫",
+      "id": 2
+    },
+    {
+      "type": "MENS",
+      "size": [
+        "S",
+        "M"
+      ],
+      "price": "99.00",
+      "style": "SWEETS",
+      "color": "GREEN",
+      "title": "OVERDYED CREW",
+      "titleMandarin": "过度染色",
+      "id": 3
+    },
+    {
+      "type": "MENS",
+      "size": [
+        "S",
+        "M",
+        "L"
+      ],
+      "price": "239.00",
+      "style": "BOTTOMS",
+      "color": "BLACK",
+      "title": "STOCK WATER SHORT",
+      "titleMandarin": "短裤男宽松",
+      "id": 4
+    },
+    {
+      "type": "MENS",
+      "size": [
+        "M",
+        "L"
+      ],
+      "price": "159.00",
+      "style": "OUTERWEAR",
+      "color": "MULTICOLOR",
+      "title": "CLASSIC ZIP UP PLAID LS SHIRT",
+      "titleMandarin": "传统拉链衬衫",
+      "id": 5
+    },
+    {
+      "type": "WOMENS",
+      "size": [
+        "M",
+        "L"
+      ],
+      "price": "319.00",
+      "style": "TEES",
+      "color": "BLACK",
+      "title": "STUSSY SYRFMAN PICMENT DYED TEE",
+      "titleMandarin": "Stussy颜料色T恤",
+      "id": 6
+    },
+    {
+      "type": "WOMENS",
+      "size": [
+        "M",
+        "L"
+      ],
+      "price": "79.00",
+      "style": "BOTTOMS",
+      "color": "GREY",
+      "title": "OVERDYED SWEATPANT",
+      "titleMandarin": "叠染的运动裤",
+      "id": 7
+    },
+    {
+      "type": "MENS",
+      "size": [
+        "L"
+      ],
+      "price": "189.00",
+      "style": "SOCKS",
+      "color": "BLACK",
+      "title": "STOCK NEW SOCK - 3 PACK",
+      "titleMandarin": "新袜子 - 3只",
+      "id": 8
+    },
+    {
+      "type": "WOMENS",
+      "size": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "price": "169.00",
+      "style": "TEES",
+      "color": "MULTICOLOR",
+      "title": "8 BALL CAMO TEE",
+      "titleMandarin": "8球衬衫",
+      "id": 9
+    },
+    {
+      "type": "WOMENS",
+      "size": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "price": "99.00",
+      "style": "BOTTOMS",
+      "color": "WHITE",
+      "title": "ROSES WATER SHORT",
+      "titleMandarin": "玫瑰短裤",
+      "id": 10
+    },
+    {
+      "type": "MENS",
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price": "99.00",
+      "style": "OUTERWEAR",
+      "color": "GREEN",
+      "title": "FLOR SHERPA MOCK NECK",
+      "titleMandarin": "夏尔巴人花",
+      "id": 11
+    },
+    {
+      "type": "WOMENS",
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price": "99.00",
+      "style": "OUTERWEAR",
+      "color": "WHITE",
+      "title": "SOLID WORK JACKET",
+      "titleMandarin": "实心外套",
+      "id": 12
+    }
+  ],
+  "bags": []
+}
